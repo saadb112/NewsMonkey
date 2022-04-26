@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 function App() {
   return (
+    // SETUP ROUTER DOM 
     <Router>
       <div className="App">
 
